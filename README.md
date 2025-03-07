@@ -1,7 +1,7 @@
-# Informações do Projeto
+# Informações do Projeto de Extensão
 `TÍTULO DO PROJETO`:  
 
-Trabalho de Extensão da Disciplina de Fundamentos de Sistemas de Informação
+ `DISCIPLINA`: de Fundamentos de Sistemas de Informação
 
 `CURSO`: Sistemas de Informação
 
