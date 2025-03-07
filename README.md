@@ -1,11 +1,11 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`TÍTULO DO PROJETO`:  
 
-Trabalho Interdisciplinar - Aplicacões Web
+Trabalho de Extensão da Disciplina de Fundamentos de Sistemas de Informação
 
-`CURSO`
+`CURSO`: Sistemas de Informação
 
-`SEMESTRE`
+`SEMESTRE`: 1/2025
 
 ## Participantes
 
