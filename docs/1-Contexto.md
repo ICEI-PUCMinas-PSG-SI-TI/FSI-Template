@@ -6,7 +6,7 @@ Este projeto tem como objetivo principal **[inserir objetivo geral do projeto do
 
 ## Descrição do Projeto
 
-<- (Neste espaço, os alunos devem inserir um texto explicativo sobre o projeto, detalhando seu propósito, público-alvo, metodologia utilizada, principais atividades e impactos esperados.)
+_(Neste espaço, os alunos devem inserir um texto explicativo sobre o projeto, detalhando seu propósito, público-alvo, metodologia utilizada, principais atividades e impactos esperados.)_
 
 A expectativa é que este projeto contribua significativamente para a formação acadêmica e profissional dos envolvidos, promovendo um ambiente de aprendizado dinâmico e a troca de experiências entre estudantes, professores e a comunidade beneficiada.
 
