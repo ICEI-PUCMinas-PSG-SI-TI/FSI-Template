@@ -1,4 +1,7 @@
 # Introdução
+Os projetos de extensão desempenham um papel fundamental na conexão entre a universidade e a sociedade, promovendo a aplicação do conhecimento acadêmico em contextos reais e impactando diretamente a comunidade. Este projeto tem como objetivo [descrever brevemente o propósito do projeto], proporcionando aos participantes a oportunidade de desenvolver habilidades técnicas e socioemocionais, além de contribuir para a solução de desafios práticos.
+
+Por meio da integração entre ensino, pesquisa e extensão, busca-se não apenas fortalecer a formação dos estudantes, mas também gerar benefícios concretos para a sociedade, estimulando a inovação e o desenvolvimento social. A iniciativa será conduzida com base na metodologia ágil Scrum, garantindo um ambiente colaborativo e de aprendizado contínuo.
 
 ## Problema
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
