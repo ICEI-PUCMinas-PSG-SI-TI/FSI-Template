@@ -9,12 +9,14 @@
 ## Personas
 
 **Persona 1**
+
 Nome: Mariana Souza
 Idade: 32 anos
 Profissão: Analista de Marketing
 Perfil: Mariana é casada, tem uma rotina corrida e adora praticidade. Costuma fazer compras online para economizar tempo, principalmente de roupas e produtos eletrônicos. Dá muita importância a avaliações de outros clientes antes de finalizar uma compra e prefere lojas que oferecem frete rápido e políticas de devolução facilitadas. Atualmente, está buscando um site confiável para comprar um novo smartphone com um bom custo-benefício.
 
 **Persona 2**
+
 Nome: João Mendes
 Idade: 40 anos
 Profissão: Pequeno empreendedor
