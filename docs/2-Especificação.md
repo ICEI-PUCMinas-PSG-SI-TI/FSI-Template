@@ -8,86 +8,65 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+**Persona 1**
+Nome: Mariana Souza
+Idade: 32 anos
+Profissão: Analista de Marketing
+Perfil: Mariana é casada, tem uma rotina corrida e adora praticidade. Costuma fazer compras online para economizar tempo, principalmente de roupas e produtos eletrônicos. Dá muita importância a avaliações de outros clientes antes de finalizar uma compra e prefere lojas que oferecem frete rápido e políticas de devolução facilitadas. Atualmente, está buscando um site confiável para comprar um novo smartphone com um bom custo-benefício.
+
+**Persona 2**
+Nome: João Mendes
+Idade: 40 anos
+Profissão: Pequeno empreendedor
+
+Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca de fornecedores confiáveis para comprar produtos em grande quantidade. Ele prefere plataformas de e-commerce que ofereçam preços competitivos, opções de pagamento flexíveis e entrega rápida. Além disso, valoriza um bom atendimento ao cliente e suporte pós-venda. Atualmente, está pesquisando um marketplace que ofereça descontos para compras no atacado.
+
+## As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
+### REQUISITOS FUNCIONAIS
+
+|ID    | Descrição do Requisito                                                                                            | Prioridade |
+|------|-------------------------------------------------------------------------------------------------------------------|------------|
+|RF-001| O sistema deve permitir que os usuários criem uma conta informando nome, e-mail, senha e endereço.                |      ALTA  | 
+|RF-002| O sistema deve permitir que os usuários adicionem produtos ao carrinho de compras.                                |      MÉDIA |
+|RF-03 | O usuário deve poder escolher um método de pagamento (cartão de crédito, boleto, Pix, etc.) e finalizar a compra. |      MÉDIA |
 
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
 
-## Histórias de Usuários
+### REQUISITOS NÃO FUNCIONAIS
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID     | Descrição do Requisito                                                                              |Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------|-----------|
+|RNF-001| O sistema deve carregar as páginas em até 3 segundos para garantir uma boa experiência ao usuário.  |   MÉDIA   | 
+|RNF-002| O sistema deve proteger as informações dos clientes por meio de criptografia e medidas de segurança.|   ALTA    | 
 
 
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
+> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
-## Restrições
+## HISTÓRIAS DO USUÁRIO
+
+>Lembrem-se de que as histórias de usuário correspondem aos requisitos funcionais, porém são descritas em um formato que ajuda a identificar a persona (o tipo de
+> usuário que utilizará o sistema).
+>*Por exemplo, se um requisito funcional diz que o sistema deve permitir o cadastro de usuários, a história do usuário pode ser:
+>"Como um novo cliente, eu quero criar uma conta para salvar meus dados e facilitar futuras compras."*
+
+
+Abaixo são apresentadas as histórias de usuário baseadas nos requisitos funcionais do **e-commerce**:
+
+**História 1 – Cadastro e autenticação de usuários**
+**Como** um cliente,
+**Eu quero** criar uma conta no site,
+**Para que** eu possa salvar meus dados e realizar compras de forma mais rápida no futuro.
+
+**História 2 – Processo de compra e pagamento**
+**Como** um cliente,
+**Eu quero** adicionar produtos ao carrinho e finalizar minha compra com um método de pagamento seguro,
+**Para que** eu possa receber meus pedidos no meu endereço sem complicações.
+
+
+
+## RESTRIÇÕES
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
