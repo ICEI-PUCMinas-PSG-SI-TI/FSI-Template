@@ -51,9 +51,7 @@ Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca 
 |RNF-002| O sistema deve proteger as informações dos clientes por meio de criptografia e medidas de segurança.|   ALTA    | 
 
 
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
+> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,11 +66,13 @@ Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca 
 Abaixo são apresentadas as histórias de usuário baseadas nos requisitos funcionais do **e-commerce**:
 
 **História 1 – Cadastro e autenticação de usuários**
+
 **Como** um cliente,
 **Eu quero** criar uma conta no site,
 **Para que** eu possa salvar meus dados e realizar compras de forma mais rápida no futuro.
 
 **História 2 – Processo de compra e pagamento**
+
 **Como** um cliente,
 **Eu quero** adicionar produtos ao carrinho e finalizar minha compra com um método de pagamento seguro,
 **Para que** eu possa receber meus pedidos no meu endereço sem complicações.
