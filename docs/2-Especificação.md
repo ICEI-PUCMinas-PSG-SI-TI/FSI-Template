@@ -42,6 +42,7 @@ Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca 
 
 
 
+
 ### REQUISITOS NÃO FUNCIONAIS
 
 |ID     | Descrição do Requisito                                                                              |Prioridade |
@@ -52,6 +53,9 @@ Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca 
 
 > Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## HISTÓRIAS DO USUÁRIO
 
@@ -74,15 +78,18 @@ Abaixo são apresentadas as histórias de usuário baseadas nos requisitos funci
 **Para que** eu possa receber meus pedidos no meu endereço sem complicações.
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## RESTRIÇÕES
+>Uma restrição de software é uma limitação ou condição que deve ser considerada no desenvolvimento do sistema. Essas restrições podem ser técnicas, de negócio, >legais ou operacionais e influenciam como o software será projetado, implementado e utilizado.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID| Restrição                                                         |
+|--|-------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre             |
+|02| Não pode ser desenvolvido um módulo de backend                    |
+|03| O sistema deve funcionar apenas dentro da rede interna da empresa.|
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
