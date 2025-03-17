@@ -28,7 +28,9 @@ Profissão: Pequeno empreendedor
 
 Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca de fornecedores confiáveis para comprar produtos em grande quantidade. Ele prefere plataformas de e-commerce que ofereçam preços competitivos, opções de pagamento flexíveis e entrega rápida. Além disso, valoriza um bom atendimento ao cliente e suporte pós-venda. Atualmente, está pesquisando um marketplace que ofereça descontos para compras no atacado.
 
-## As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### REQUISITOS FUNCIONAIS
 
