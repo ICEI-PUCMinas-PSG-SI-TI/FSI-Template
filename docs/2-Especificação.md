@@ -10,18 +10,17 @@
 
 **Persona 1**
 
-Nome: Mariana Souza
-Idade: 32 anos
-Profissão: Analista de Marketing
-Perfil: Mariana é casada, tem uma rotina corrida e adora praticidade. Costuma fazer compras online para economizar tempo, principalmente de roupas e produtos eletrônicos. Dá muita importância a avaliações de outros clientes antes de finalizar uma compra e prefere lojas que oferecem frete rápido e políticas de devolução facilitadas. Atualmente, está buscando um site confiável para comprar um novo smartphone com um bom custo-benefício.
+>Nome: Mariana Souza
+>Idade: 32 anos
+>Profissão: Analista de Marketing
+>Perfil: Mariana é casada, tem uma rotina corrida e adora praticidade. Costuma fazer compras online para economizar tempo, principalmente de roupas e produtos eletrônicos. Dá muita importância a avaliações de outros clientes antes de finalizar uma compra e prefere lojas que oferecem frete rápido e políticas de devolução facilitadas. Atualmente, está buscando um site confiável para comprar um novo smartphone com um bom custo-benefício.
 
 **Persona 2**
 
-Nome: João Mendes
-Idade: 40 anos
-Profissão: Pequeno empreendedor
-
-Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca de fornecedores confiáveis para comprar produtos em grande quantidade. Ele prefere plataformas de e-commerce que ofereçam preços competitivos, opções de pagamento flexíveis e entrega rápida. Além disso, valoriza um bom atendimento ao cliente e suporte pós-venda. Atualmente, está pesquisando um marketplace que ofereça descontos para compras no atacado.
+>Nome: João Mendes
+>Idade: 40 anos
+>Profissão: Pequeno empreendedor
+>Perfil: João é dono de uma loja de artigos esportivos e está sempre em busca de fornecedores confiáveis para comprar produtos em grande quantidade. Ele prefere plataformas de e-commerce que ofereçam preços competitivos, opções de pagamento flexíveis e entrega rápida. Além disso, valoriza um bom atendimento ao cliente e suporte pós-venda. Atualmente, está pesquisando um marketplace que ofereça descontos para compras no atacado.
 
 ## As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
