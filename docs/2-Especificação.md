@@ -67,15 +67,15 @@ Abaixo são apresentadas as histórias de usuário baseadas nos requisitos funci
 
 **História 1 – Cadastro e autenticação de usuários**
 
-**Como** um cliente,\**
-**Eu quero** criar uma conta no site,\**
-**Para que** eu possa salvar meus dados e realizar compras de forma mais rápida no futuro.\**
+**Como** um cliente,\
+**Eu quero** criar uma conta no site,\
+**Para que** eu possa salvar meus dados e realizar compras de forma mais rápida no futuro.\
 
 **História 2 – Processo de compra e pagamento**
 
-**Como** um cliente,\**
-**Eu quero** adicionar produtos ao carrinho e finalizar minha compra com um método de pagamento seguro,\**
-**Para que** eu possa receber meus pedidos no meu endereço sem complicações.\**
+**Como** um cliente,\
+**Eu quero** adicionar produtos ao carrinho e finalizar minha compra com um método de pagamento seguro,\
+**Para que** eu possa receber meus pedidos no meu endereço sem complicações.\
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
