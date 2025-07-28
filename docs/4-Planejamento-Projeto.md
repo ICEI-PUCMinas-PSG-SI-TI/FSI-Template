@@ -1,3 +1,91 @@
+# 📌 Planejamento do Projeto
+
+Esta seção apresenta como o grupo organizou o trabalho ao longo do semestre, com as tarefas distribuídas por Sprints. O objetivo é facilitar o acompanhamento do progresso e a colaboração entre os membros.
+
+---
+
+## ✅ Sprints do Projeto
+
+O projeto será realizado em **4 sprints**, cada uma com foco específico:
+
+| Sprint | Objetivo                                                                                       | Produtos Esperados                               |
+|--------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Sprint 1** | Entrevista com a empresa e contextualização do problema                                     | Preenchimento da introdução e contextualização no `README.md` |
+| **Sprint 2** | Levantamento de requisitos e criação de protótipos                                          | Quadro de requisitos (funcionais e não funcionais), personas e wireframes |
+| **Sprint 3** | Desenvolvimento da ferramenta e preparação para apresentação parcial                        | Primeira versão funcional do sistema + Apresentação Parcial |
+| **Sprint 4** | Finalização do sistema, testes, apresentação final e relatório no sistema APC               | Versão final do sistema + Apresentação Final + Relatório Individual no SGA |
+
+---
+
+## 🧠 Organização da Equipe por Sprint
+
+Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cada sprint. Os demais membros poderão assumir papéis como:
+
+- **Front-end**: responsável pelas interfaces com o usuário (HTML, CSS, JS)
+- **Back-end**: responsável pela lógica de programação e banco de dados
+- **Apoio Geral**: cuida da documentação, testes e suporte à equipe
+
+> ✏️ _Preencha com os papéis escolhidos pelo seu grupo em cada sprint:_
+
+### Exemplo – Sprint 2
+
+- **Líder do Grupo**: Aluna Y  
+- **Front-end**: Aluno X  
+- **Back-end**: Aluno K  
+- **Apoio Geral**: Aluna Z  
+
+---
+
+## 📋 Quadro de Tarefas
+
+Acompanhe aqui as atividades atribuídas e o status de cada uma.
+
+### Sprint 2 – Exemplo de Quadro
+
+| Responsável | Tarefa                     | Início     | Prazo     | Status       | Concluído em |
+|-------------|----------------------------|------------|-----------|--------------|---------------|
+| Aluno X     | Criar quadro de requisitos | 01/09/2024 | 07/09/2024| ✔️ Concluído  | 05/09/2024    |
+| Aluno Y     | Definir personas           | 01/09/2024 | 07/09/2024| 📝 Em andamento|               |
+| Aluna Z     | Criar wireframes           | 02/09/2024 | 10/09/2024| ❌ Não iniciado|               |
+| Aluno K     | Documentar entrevistas     | 01/09/2024 | 05/09/2024| ⌛ Atrasado   |               |
+
+**Legenda:**
+- ✔️ Concluído
+- 📝 Em andamento
+- ⌛ Atrasado
+- ❌ Não iniciado
+
+> 🟢 _Atualize esse quadro a cada sprint com as tarefas e status reais do grupo._
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+Liste aqui as ferramentas que o grupo utilizou para desenvolver o projeto e por que foram escolhidas.
+
+**Exemplo:**
+- **Visual Studio Code** – Editor de código simples e gratuito.
+- **Figma** – Criação de wireframes e protótipos visuais.
+- **GitHub** – Controle de versões e trabalho colaborativo.
+- **Google Meet** – Reuniões com a empresa e entre os membros.
+
+---
+
+## 🔗 Links Úteis
+
+- [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://kanbanize.com/pt/blog/implantacao-scrum/)
+- [Scrum em 9 minutos (YouTube)](https://www.youtube.com/watch?v=9TycLR0TqFA)
+
+
+
+
+
+
+
+
+
+
+
 # Planejamento do Projeto
 
 > Aqui será feito o gerenciamento das tarefas de implementação do projeto.
