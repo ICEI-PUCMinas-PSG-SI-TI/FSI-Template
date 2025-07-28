@@ -1,4 +1,4 @@
-# 📌 Planejamento do Projeto
+# Planejamento do Projeto
 
 Esta seção apresenta como o grupo organizou o trabalho ao longo do semestre, com as tarefas distribuídas por Sprints. O objetivo é facilitar o acompanhamento do progresso e a colaboração entre os membros.
 
@@ -9,15 +9,15 @@ Esta seção apresenta como o grupo organizou o trabalho ao longo do semestre, c
 O projeto será realizado em **4 sprints**, cada uma com foco específico:
 
 | Sprint | Objetivo                                                                                       | Produtos Esperados                               |
-|--------|------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| **Sprint 1** | Entrevista com a empresa e contextualização do problema                                     | Preenchimento da introdução e contextualização no `README.md` |
-| **Sprint 2** | Levantamento de requisitos e criação de protótipos                                          | Quadro de requisitos (funcionais e não funcionais), personas e wireframes |
-| **Sprint 3** | Desenvolvimento da ferramenta e preparação para apresentação parcial                        | Primeira versão funcional do sistema + Apresentação Parcial |
-| **Sprint 4** | Finalização do sistema, testes, apresentação final e relatório no sistema APC               | Versão final do sistema + Apresentação Final + Relatório Individual no SGA |
+|--------------|------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Sprint 1**   | Entrevista com a empresa e contextualização do problema                                | Preenchimento da introdução e contextualização no `README.md` |
+| **Sprint 2**   | Levantamento de requisitos e criação de protótipos                                     | Quadro de requisitos (funcionais e não funcionais), personas e wireframes |
+| **Sprint 3**   | Desenvolvimento da ferramenta e preparação para apresentação parcial                    | Primeira versão funcional do sistema + Apresentação Parcial |
+| **Sprint 4**   | Finalização do sistema, testes, apresentação final e relatório no sistema APC           | Versão final do sistema + Apresentação Final + Relatório Individual no SGA |
 
 ---
 
-## 🧠 Organização da Equipe por Sprint
+## Organização da Equipe por Sprint
 
 Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cada sprint. Os demais membros poderão assumir papéis como:
 
@@ -36,26 +36,74 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ---
 
-## 📋 Quadro de Tarefas
+### 📋 Legenda para o Status do Quadro de Tarefas
 
-Acompanhe aqui as atividades atribuídas e o status de cada uma.
+                **Legenda:**
+                - ✔️ Concluído
+                - 📝 Em andamento
+                - ⌛ Atrasado
+                - ❌ Não iniciado
 
-### Sprint 2 – Exemplo de Quadro
+--- 
 
-| Responsável | Tarefa                     | Início     | Prazo     | Status       | Concluído em |
-|-------------|----------------------------|------------|-----------|--------------|---------------|
-| Aluno X     | Criar quadro de requisitos | 01/09/2024 | 07/09/2024| ✔️ Concluído  | 05/09/2024    |
-| Aluno Y     | Definir personas           | 01/09/2024 | 07/09/2024| 📝 Em andamento|               |
-| Aluna Z     | Criar wireframes           | 02/09/2024 | 10/09/2024| ❌ Não iniciado|               |
-| Aluno K     | Documentar entrevistas     | 01/09/2024 | 05/09/2024| ⌛ Atrasado   |               |
+## 🔖 Planejamento de Sprints – Projeto de Extensão Universitária
 
-**Legenda:**
-- ✔️ Concluído
-- 📝 Em andamento
-- ⌛ Atrasado
-- ❌ Não iniciado
 
-> 🟢 _Atualize esse quadro a cada sprint com as tarefas e status reais do grupo._
+### 🟢 Sprint 1 – Entendimento do Problema e Proposta de Solução  
+
+**Período estimado:** 01/08/2025 a 26/08/2025  
+**Objetivo:** Realizar entrevista com o cliente, identificar o problema, descrever o contexto da empresa e propor a solução.
+
+| Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
+|-------------|------------------|--------|--------|--------|--------|---------|
+| AlunoX | Líder | Agendar e conduzir entrevista com o cliente | 29/07 | 02/08 | ✔️ | Link/print |
+| AlunoY | Redator | Preencher roteiro da entrevista no repositório | 30/07 | 03/08 | ✔️ | README.md |
+| AlunaZ | Relatora | Descrever o contexto da empresa e os problemas atuais | 01/08 | 05/08 | ✔️ | README.md |
+| AlunoK | Escritor técnico | Redigir proposta de sistema com base nos dados | 05/08 | 08/08 | ✔️ | README.md |
+| Todos | Organização | Conferir e revisar o conteúdo publicado no GitHub | 08/08 | 16/08 | ✔️ | Repositório Git |
+
+---
+
+### 🟡 Sprint 2 – Levantamento de Requisitos e Wireframes  
+
+**Período estimado:** 16/08/2025 a 09/09/2025  
+**Objetivo:** Levantar os requisitos do sistema com base na entrevista e construir os primeiros wireframes da solução.
+
+| Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
+|-------------|------------------|--------|--------|--------|--------|---------|
+| AlunoY | Analista | Elaborar lista de requisitos funcionais e não funcionais | 19/08 | 23/08 | ❌ | — |
+| AlunaZ | UX Designer | Criar wireframes das principais telas do sistema | 20/08 | 27/08 | ❌ | — |
+| AlunoK | Documentação | Escrever as histórias de usuário no README | 22/08 | 29/08 | ❌ | — |
+| AlunaX (Líder) | Revisão geral | Validar com o cliente os requisitos e protótipos | 30/08 | 06/09 | ❌ | — |
+| Todos | Contribuição coletiva | Inserir os links/imagens dos wireframes no GitHub | 04/09 | 06/09 | ❌ | — |
+
+---
+
+### 🔵 Sprint 3 – Desenvolvimento Inicial e Apresentação Parcial 
+
+**Período estimado:** 09/09/2025 a 30/09/2025  
+**Objetivo:** Iniciar a implementação da solução e apresentar o progresso parcial.
+
+| Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
+|-------------|------------------|--------|--------|--------|--------|---------|
+| AlunoY | Front-end Dev | Iniciar tela de login e home | 09/09 | 17/09 | ❌ | — |
+| AlunoK | Back-end Dev | Criar estrutura de banco de dados e rotas básicas | 10/09 | 20/09 | ❌ | — |
+| AlunaZ | Testes | Realizar testes iniciais de funcionalidades básicas | 18/09 | 24/09 | ❌ | — |
+| AlunaX (Líder) | Apresentação | Organizar slides e conduzir apresentação parcial | 25/09 | 30/09 | ❌ | — |
+
+---
+
+### 🔴 Sprint 4 – Finalização e Relatório Final (APC)  
+
+**Período estimado:** 01/10/2025 a 10/12/2025  
+**Objetivo:** Concluir o sistema, realizar testes finais, validar com o cliente e preencher o relatório individual e coletivo.
+
+| Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
+|-------------|------------------|--------|--------|--------|--------|---------|
+| AlunoK | Back-end Dev | Concluir rotinas de persistência e regras de negócio | 01/10 | 08/10 | ❌ | — |
+| AlunoY | Front-end Dev | Finalizar interface com feedback visual ao usuário | 02/10 | 10/10 | ❌ | — |
+| AlunaZ | QA/Testes | Testar sistema completo com dados reais | 06/1
+
 
 ---
 
@@ -80,93 +128,5 @@ Liste aqui as ferramentas que o grupo utilizou para desenvolver o projeto e por 
 
 
 
-
-
-
-
-
-
-# Planejamento do Projeto
-
-> Aqui será feito o gerenciamento das tarefas de implementação do projeto.
-
-## Divisão de Papéis
-
-> Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
-
-### Sprint 1 - Relatorio 1
-- Realiação da Entrega do Relatório 1 (não precisa especificar
-
-### Sprint 2 - Levantamento de Requisitos + Implementação
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
-
-## Quadro de tarefas
-
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
-
-## Sprint 2 
-Atualizado em: 21/04/2024
-
-| Responsável   | Tarefa/Requisito      | Iniciado em    | Prazo      | Status | Terminado em   |
-| :----         |    :----              |      :----:    | :----:     | :----: | :----:         |
-| AlunaX        | Introdução            | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos             | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛    |                 |
-| AlunoK        | Personas 1            | 01/01/2024     | 12/02/2005 | ❌    |                |
-
-Legenda:
-- ✔️: terminado
-- 📝: em execução
-- ⌛: atrasado
-- ❌: não iniciado
-
-  
-### Sprint 3 - Implementação + Testes
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
-- 
-## Quadro de tarefas
-
-> Apresente a divisão de tarefas entre os membros do grupo e o acompanhamento da execução, conforme exemplo abaixo.
-
-
-## Sprint 3
-
-Atualizado em: 21/04/2024
-
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Home-Page        | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | CSS Unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛    |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |                |
-
-
-Legenda:
-- ✔️: terminado
-- 📝: em execução
-- ⌛: atrasado
-- ❌: não iniciado
-
-## Ferramentas
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do  projeto, justificando a escolha de cada uma delas. Use o formato abaixo como exemplo.
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de diagramação.
-- Frameworks 
-- Outras ferramentas externas
-
-
-## Links Úteis
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
