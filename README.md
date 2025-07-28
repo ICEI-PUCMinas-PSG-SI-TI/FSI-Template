@@ -5,7 +5,7 @@
 
 `CURSO`: Sistemas de Informação
 
-`SEMESTRE`: 1/2025
+`SEMESTRE`: 2/2025
 
 ## Participantes
 
