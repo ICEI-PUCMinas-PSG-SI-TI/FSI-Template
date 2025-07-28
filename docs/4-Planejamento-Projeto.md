@@ -27,13 +27,14 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 > ✏️ _Preencha com os papéis escolhidos pelo seu grupo em cada sprint:_
 
-### Exemplo – Sprint 2
+### Exemplo – da Definição dos Papéis na Sprint 2
 
-- **Líder do Grupo**: Aluna Y  
-- **Front-end**: Aluno X  
+- **Líder do Grupo**: Aluna x  
+- **Front-end**: Aluno y  
 - **Back-end**: Aluno K  
 - **Apoio Geral**: Aluna Z  
 
+> ✏️ _Se necessário podem alterar os papéis em CADA Sprint_
 ---
 
 ### 📋 Legenda para o Status do Quadro de Tarefas
