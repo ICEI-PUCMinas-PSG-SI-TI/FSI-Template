@@ -13,7 +13,7 @@ O projeto será realizado em **4 sprints**, cada uma com foco específico:
 | **Sprint 1**   | Entrevista com a empresa e contextualização do problema                                | Preenchimento da introdução e contextualização no `README.md` |
 | **Sprint 2**   | Levantamento de requisitos e criação de protótipos                                     | Quadro de requisitos (funcionais e não funcionais), personas e wireframes |
 | **Sprint 3**   | Desenvolvimento da ferramenta e preparação para apresentação parcial                    | Primeira versão funcional do sistema + Apresentação Parcial |
-| **Sprint 4**   | Finalização do sistema, testes, apresentação final e relatório no sistema APC           | Versão final do sistema + Apresentação Final + Relatório Individual no SGA |
+| **Sprint 4**   | Finalização do sistema, testes, apresentação final e relatório no sistema APC           | Versão final do sistema + Apresentação Final + Relatório Individual no APC dentro do SGA |
 
 ---
 
