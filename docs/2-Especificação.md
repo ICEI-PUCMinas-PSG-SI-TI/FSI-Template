@@ -19,10 +19,14 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 *(Preencha com a descrição detalhada da segunda persona do seu projeto)*
 
 
-
 ---
+#### ⚠️ **ATENÇÃO**
+Os quadros abaixo devem ser preenchidos com os **requisitos funcionais e não funcionais** específicos do sistema que está sendo desenvolvido.  
 
-#### ⚠️ ATENÇÃO: Os quadros abaixo devem ser preenchidos com os requisitos funcionais e não funcionais específicos do sistema que você está desenvolvendo.
+✅ **Importante:**  
+- Não existe número mínimo obrigatório de requisitos.  
+- Será avaliado se **todos os requisitos funcionais propostos** foram **efetivamente desenvolvidos** até a entrega final.
+--- 
 
 > Cada requisito deve ser claro, único e representar uma característica da sua solução.
 
@@ -86,4 +90,5 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
 
