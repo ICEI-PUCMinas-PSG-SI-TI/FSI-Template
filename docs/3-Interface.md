@@ -1,11 +1,11 @@
 
-# Projeto de Interface
+# 3. Projeto de Interface
 
 **Pré-requisitos:** <a href="2-Especificação.md"> Documentação de Especificação</a>
 
 Nesta seção, apresente as principais telas da plataforma e explique como a interface foi elaborada para atender aos requisitos funcionais, requisitos não funcionais e histórias de usuário definidos na Especificação do Projeto.
 
-## Wireframes
+## 3.1 Wireframes
 
 ### O que são wireframes?
 
