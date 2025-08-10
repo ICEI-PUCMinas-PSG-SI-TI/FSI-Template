@@ -1,10 +1,10 @@
-# Especificações do Projeto
+# 2. Especificações do Projeto
 
 Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 
 > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
 
-## Personas
+## 2.1 Personas
 
 **Persona 1**  
 **Nome:** Mariana Souza  
@@ -27,9 +27,9 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 > Cada requisito deve ser claro, único e representar uma característica da sua solução.
 
 
-### REQUISITOS FUNCIONAIS
+### 2.2 REQUISITOS FUNCIONAIS
 
-> Preencha a tabela abaixo com os requisitos funcionais que detalham as funcionalidades que seu sistema deverá oferecer.  
+> Preencha a tabela abaixo com os requisitos funcionais que **detalham as funcionalidades que seu sistema deverá oferecer**.  
 > Cada requisito deve representar uma característica única da solução e ser claro para orientar o desenvolvimento.
 
 
@@ -46,9 +46,9 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 |RF-09| *(Descreva aqui o requisito funcional 9 do seu sistema)*                                                        | *(Alta/Média/Baixa)*  |
 |RF-10| *(Descreva aqui o requisito funcional 10 do seu sistema)*                                                       | *(Alta/Média/Baixa)*  |
 
-### REQUISITOS NÃO FUNCIONAIS
+### 2.3 REQUISITOS NÃO FUNCIONAIS
 
-> Preencha a tabela abaixo com os requisitos não funcionais que definem características desejadas para o sistema, como desempenho, segurança, usabilidade, etc.  
+> Preencha a tabela abaixo com os requisitos não funcionais que definem **características desejadas para o sistema que irão desenvolver**, como desempenho, segurança, usabilidade, etc.  
 > Lembre-se que esses requisitos são importantes para garantir a qualidade da solução.
 
 |ID     | Descrição do Requisito                                                                              |Prioridade |
@@ -62,17 +62,17 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 
 ---
 
-## RESTRIÇÕES
+## 2.4 RESTRIÇÕES
 
 > Restrições são limitações externas impostas ao projeto que devem ser rigorosamente obedecidas durante o desenvolvimento. Elas podem estar relacionadas a prazos, tecnologias obrigatórias ou proibidas, ambiente de execução, normas legais ou políticas internas da organização. Diferente dos requisitos não funcionais, que indicam características desejadas do sistema, as restrições determinam limites fixos que influenciam as decisões de projeto.
 
-> A tabela abaixo deve ser preenchida com as restrições específicas que impactam seu projeto. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
+> A tabela abaixo deve ser preenchida com as restrições específicas que **impactam seu projeto**. Caso não haja alguma restrição adicional além das já listadas, mantenha a tabela conforme está.
 
 | ID  | Restrição                                                        |
 |------|-----------------------------------------------------------------|
 | 01   | O projeto deverá ser entregue até o final do semestre.          |
-| 02   | Não pode ser desenvolvido módulo backend (somente frontend).    |
-| 03   | O sistema deve funcionar apenas dentro da rede interna da empresa.|
+| 02   | O sistema deve funcionar apenas dentro da rede interna da empresa.  |
+| 03   | *(Descreva aqui a restrição 4 do seu projeto)*
 | 04   | *(Descreva aqui a restrição 4 do seu projeto)*                  |
 | 05   | *(Descreva aqui a restrição 5 do seu projeto)*                  |
 | 06   | *(Descreva aqui a restrição 6 do seu projeto)*                  |
@@ -86,3 +86,4 @@ Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a>
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
