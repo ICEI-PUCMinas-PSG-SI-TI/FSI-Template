@@ -150,17 +150,7 @@ _O grupo poderá usar esta parte para informar a professora quais tarefas estão
 | AlunaZ | QA/Testes | Testar sistema completo com dados reais | 06/1
 
 
----
 
-## 4.4 Ferramentas Utilizadas
-
-Liste aqui as ferramentas que o grupo utilizou para desenvolver o projeto e por que foram escolhidas.
-
-**Exemplo:**
-- **Visual Studio Code** – Editor de código simples e gratuito.
-- **Figma** – Criação de wireframes e protótipos visuais.
-- **GitHub** – Controle de versões e trabalho colaborativo.
-- **Google Meet** – Reuniões com a empresa e entre os membros.
 
 ---
 
