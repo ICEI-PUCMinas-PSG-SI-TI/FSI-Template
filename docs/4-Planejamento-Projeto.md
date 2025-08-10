@@ -1,10 +1,10 @@
-# Planejamento do Projeto
+# 4. Planejamento do Projeto
 
 Esta seção apresenta como o grupo organizou o trabalho ao longo do semestre, com as tarefas distribuídas por Sprints. O objetivo é facilitar o acompanhamento do progresso e a colaboração entre os membros.
 
 ---
 
-## 🧭 Sprints do Projeto 🧭
+## 4.2 Sprints do Projeto 
 
 O projeto será realizado em **4 sprints**, cada uma com foco específico:
 
@@ -27,15 +27,63 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 > ✏️ _Preencha com os papéis escolhidos pelo seu grupo em cada sprint:_
 
-### Exemplo – da Definição dos Papéis na Sprint 2
+### Exemplo – da Definição dos Papéis na Sprint 1, Sprint 2, Sprint 3 e Sprint 4
 
 - **Líder do Grupo**: Aluna x  
 - **Front-end**: Aluno y  
 - **Back-end**: Aluno K  
 - **Apoio Geral**: Aluna Z  
 
-> ✏️ _Se necessário podem alterar os papéis em CADA Sprint_
+> ✏️ _Se necessário podem alterar os papéis em CADA Sprint, mas você deverá informar repetindo o quadro anterior e separar por Sprint_
 ---
+
+## 4.3 Planejamento de Sprints – Projeto de Extensão Universitária
+
+## 4.3.1 Quadro de Tarefas (Kanban do GitHub)
+
+A divisão de tarefas e o acompanhamento da execução serão feitos utilizando o **Kanban do GitHub**, já disponível na aba **Projects** do repositório (template-base).  
+O quadro está organizado em colunas que representam as etapas do fluxo de trabalho:
+
+- **A Fazer**: tarefas pendentes de início.  
+- **Desenvolver**: tarefas em andamento.  
+- **Fila para Teste**: tarefas finalizadas no desenvolvimento e aguardando testes.  
+- **Teste**: tarefas em validação.  
+- **Feito**: tarefas concluídas.
+
+> **Importante:** A coluna *Implantar* não será utilizada neste trabalho, pois não faz parte do escopo do Projeto Extensão, mas caso o aluno resolva implantar na empresa/ONG para o qual desenvolveu, gentileza informar no quadro Kanban.
+
+**PARA CADA SPRINT:**
+1. Registre todas as tarefas na coluna **A Fazer**.  
+2. Movimente os cartões conforme o andamento do trabalho.  
+3. Mantenha atualizado o **responsável**, a **descrição** e o **prazo** em cada cartão.  
+4. Ao final da sprint, arquive o projeto/board para manter o histórico.
+
+**_📌Exemplo de uso no GitHub Kanban:📌_**  
+- **A Fazer**: Criar página de login (Responsável: AlunoY, Prazo: 10/09).  
+- **Desenvolver**: Implementar CSS unificado (Responsável: AlunaZ, Prazo: 15/09).  
+- **Teste**: Validar script de login (Responsável: AlunoK, Prazo: 20/10).  
+
+
+---
+
+## 4.3.1.1 Modelo de Sprint: 4 Kanbans no template-base (Kanban do GitHub)
+
+Recomenda-se criar **um board (Kanban) para cada sprint** no repositório template, assim cada aluno recebe os 4 quadros prontos ao clonar o repositório via GitHub Classroom.
+
+### Nomes sugeridos dos boards
+- `Sprint 1 — Kanban`  
+- `Sprint 2 — Kanban`  
+- `Sprint 3 — Kanban`  
+- `Sprint 4 — Kanban`
+
+### Estrutura de cada board
+- Colunas: **A Fazer** | **Desenvolver** | **Fila para Teste** | **Teste** | **Feito**  
+- Cada cartão deve conter: título curto, descrição com subtarefas (se houver), responsável, label (ex.: front, back, doc, teste), data de início e prazo.
+
+---
+
+## 4.3.2 Quadro de Tarefas (Kanban dentro deste documento)
+_O grupo poderá usar esta parte para informar a professora quais tarefas estão sendo desenvolvidas, caso não tenham gostado de utilizar o Kanban do GitHub._
 
 ### 📋 Legenda para o Status do Quadro de Tarefas
 
@@ -46,13 +94,9 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
                 - ❌ Não iniciado
 
 --- 
-
-## 🔖 Planejamento de Sprints – Projeto de Extensão Universitária
-
-
 ### 🟢 Sprint 1 – Entendimento do Problema e Proposta de Solução  
 
-**Período estimado:** 01/08/2025 a 26/08/2025  
+**Período estimado:** definido no Canvas (_os alunos podem colocar o periodo aqui_)  
 **Objetivo:** Realizar entrevista com o cliente, identificar o problema, descrever o contexto da empresa e propor a solução.
 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
@@ -67,7 +111,7 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ### 🟡 Sprint 2 – Levantamento de Requisitos e Wireframes  
 
-**Período estimado:** 16/08/2025 a 09/09/2025  
+**Período estimado:** definido no Canvas (_os alunos podem colocar o periodo aqui_)   
 **Objetivo:** Levantar os requisitos do sistema com base na entrevista e construir os primeiros wireframes da solução.
 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
@@ -82,7 +126,7 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ### 🔵 Sprint 3 – Desenvolvimento Inicial e Apresentação Parcial 
 
-**Período estimado:** 09/09/2025 a 30/09/2025  
+**Período estimado:** definido no Canvas (_os alunos podem colocar o periodo aqui_)   
 **Objetivo:** Iniciar a implementação da solução e apresentar o progresso parcial.
 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
@@ -96,7 +140,7 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ### 🔴 Sprint 4 – Finalização e Relatório Final (APC)  
 
-**Período estimado:** 01/10/2025 a 10/12/2025  
+**Período estimado:** definido no Canvas (_os alunos podem colocar o periodo aqui_)   
 **Objetivo:** Concluir o sistema, realizar testes finais, validar com o cliente e preencher o relatório individual e coletivo.
 
 | Responsável | Função no Grupo | Tarefa | Início | Prazo | Status | Entrega |
@@ -108,7 +152,7 @@ Durante o projeto, um integrante será escolhido como **Líder do Grupo** em cad
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 4.4 Ferramentas Utilizadas
 
 Liste aqui as ferramentas que o grupo utilizou para desenvolver o projeto e por que foram escolhidas.
 
