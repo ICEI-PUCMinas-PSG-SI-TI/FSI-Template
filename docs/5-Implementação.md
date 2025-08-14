@@ -54,18 +54,19 @@ Legenda: 🟢 Concluído | 🟡 Em andamento | 🔴 Não iniciado
 **Descrição:** Formulário para inserir novos produtos no estoque.  
 [`Tela de cadastro`](images/)
 
+
 ---
-
-## 5.4 Orientações de Atualização para os Alunos
-
-1. **Ao final de cada sprint**, atualizar o quadro de progresso com:
-   - Status da tela (🟢, 🟡 ou 🔴)
-   - Data da última modificação
-   - Próxima previsão de entrega
-2. Adicionar **imagens reais** das telas desenvolvidas no diretório `images/`.
-3. Descrever brevemente as funcionalidades implementadas ou mudanças feitas desde a última atualização.
-
-📌 **Objetivo**: Esta seção deve permitir que o professor visualize rapidamente **o que já foi entregue, o que está em andamento e o que ainda falta desenvolver**, garantindo acompanhamento eficaz do projeto.
+> **📢 AVISO IMPORTANTE – ATUALIZAÇÃO DE PROGRESSO**  
+> *(leia com atenção antes de finalizar a sprint)*  
+>
+> 1. **Ao final de cada sprint**, atualizar o quadro de progresso com:  
+>    - Status da tela (🟢, 🟡 ou 🔴)  
+>    - Data da última modificação  
+>    - Próxima previsão de entrega  
+> 2. Adicionar **imagens reais** das telas desenvolvidas no diretório `images/`.  
+> 3. Descrever brevemente as funcionalidades implementadas ou mudanças feitas desde a última atualização.  
+>
+> **OBJETIVO**: Permitir que o professor visualize rapidamente **o que já foi entregue, o que está em andamento e o que ainda falta desenvolver**, garantindo acompanhamento eficaz do projeto.
 
 
 
